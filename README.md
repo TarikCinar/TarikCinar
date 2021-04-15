@@ -9,13 +9,13 @@
 <p align="left">
     <a href="https://linkedin.com/in/tarık-cinar" target="blank"><img align="center"
                                                                       src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"
-                                                                      alt="tarık-cinar" height="30" width="40"/></a>
+                                                                      alt="tarık-cinar" height="40" width="40"/></a>
     <a href="https://instagram.com/_tarik_cinar" target="blank"><img align="center"
-                                                                     src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
-                                                                     alt="_tarik_cinar" height="30" width="40"/></a>
+                                                                     src="https://img.icons8.com/color/48/000000/instagram-new.png"
+                                                                     alt="_tarik_cinar" height="40" width="40"/></a>
     <a href="https://discord.gg/tarık#2968" target="blank"><img align="center"
-                                                                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg"
-                                                                alt="tarık#2968" height="30" width="40"/></a>
+                                                                src="https://img.icons8.com/fluent/48/000000/discord-logo.png"
+                                                                alt="tarık#2968" height="40" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
