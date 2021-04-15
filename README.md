@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/tarık-cinar" target="blank"><img align="center"
-                                                                      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+                                                                      src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"
                                                                       alt="tarık-cinar" height="30" width="40"/></a>
     <a href="https://instagram.com/_tarik_cinar" target="blank"><img align="center"
                                                                      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
