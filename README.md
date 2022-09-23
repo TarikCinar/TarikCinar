@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarık</h1>
 <h3 align="center">I am a passionate software developer</h3>
 
-- 💬 Ask me about **python , django , mobile developer , web developer , bootstrap , css , javascript ,iot**
+- 💬 Ask me about **Python , Django, Web Development, Javascript, React, React Native , Bootstrap , CSS , IOT**
 
 - 📫 How to reach me **ersintarik89@gmail.com**
 
