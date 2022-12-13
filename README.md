@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/tarık-cinar" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/tarik-ersin-cinar/" target="blank"><img align="center"
                                                                       src="https://img.icons8.com/fluent/48/000000/linkedin-2.png"
                                                                       alt="tarık-cinar" height="40" width="40"/></a>
     <a href="https://instagram.com/_tarik_cinar" target="blank"><img align="center"
